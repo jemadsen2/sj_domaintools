@@ -1,0 +1,25 @@
+Host Name	MAC Address	IP Address	Allocation	Description
+cable	01:23:45:67:89:ab	106	Media	
+printer	02:23:45:67:89:ab	41	Servers	
+filserver	03:23:45:67:89:ab	37	Servers	
+firewall	04:23:45:67:89:ab	1	Firewall	
+roomba	05:23:45:67:89:ab	118	Media	
+wife-lartop	06:23:45:67:89:ab	33	Laptop	
+my-cell	07:23:45:67:89:ab	192	Phone	
+my-table	08:23:45:67:89:ab	193	Phone	
+ms1	0a:33:46:67:89:ab	253	ISPCONFIG	
+my-ws	19:23:45:67:89:ab	9	Work Stations	
+ns1	10:23:45:67:89:ab	244	DNS	
+ns2	11:23:45:67:89:ab	245	DNS	
+pbx	12:23:45:67:89:ab	248	PBX	
+lr-phone	13:23:45:67:89:ab	185	Phone	
+mb-phone	14:23:45:67:89:ab	186	Phone	
+off-phone	15:23:45:67:89:ab	187	Phone	
+my-laptop	16:23:45:67:89:ab	32	Laptop	
+roku	17:23:45:67:89:ab	107	Media	
+wifecell	18:23:45:67:89:ab	194	Phone	
+wife-ws	19:23:45:67:89:ab	9	Work Stations	
+frtv	20:23:45:67:89:ab	104	Media	
+mbtv	21:23:45:67:89:ab	105	Media	
+wifi	22:23:45:67:89:ab	3	Firewall	
+wifetab	23:23:45:67:89:ab	195	Phone	

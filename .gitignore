@@ -1,0 +1,17 @@
+flagpersonal.bash
+patterns.excl
+patterns.find
+dns
+named*
+oldstuff
+ops_config
+*~
+*.swp
+\#*#
+.#*
+\#.*#
+.#.*#
+products/dhcp/FailOver/*
+products/mydomains/*
+products/var_etc/*
+input/*
